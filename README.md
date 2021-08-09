@@ -1,6 +1,6 @@
-# Music-Player
+> # Music-Player
 
-This music player is created using Tkinter in python.
+This music player is created using **Tkinter** in python.
 
 To use this music player in your pc, you need to change the path of audio folder in the progem which i have uploaded here.
 
